@@ -9,5 +9,9 @@ public class variaveis {
         final int teste1 = 27;
         // hoje eu comi hamburger no cafe da manha
         System.out.println(teste1);
+
+        if(5>=5){
+            System.out.println("CODIGO A SER EXECUTADO");
+        }
     }
 }
