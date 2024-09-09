@@ -14,10 +14,6 @@ public class Fatorial {
            soma = i * soma;
         }
 
-        for ( string : args) {
-            
-        }
-
         System.out.println(soma);
     }
 }
